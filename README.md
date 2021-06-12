@@ -40,6 +40,8 @@ There are slight differences in the approach between the Sparkify file and the S
 
 The Sparkify - Full Dataset.ipynb takes about 3 hrs to run on the EMR cluster configured as stated above.
 
+The results and a detailed description of this project can be found in this ['blogpost'](https://ulio.medium.com/project-music-streaming-prediction-of-churning-customers-d28e3353d087).
+
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
 Must give credit to ['Udacity'](https://www.udacity.com/) for the opportunity of this challenging project. It was a pleasure working on it.
