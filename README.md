@@ -36,6 +36,8 @@ This repository includes:
 
 The Sparkify.ipynb and Sparkify.html include the project approach for a subset (approx. 1% of the whole dataset) of the Sparkify dataset as a Jupyter Notebook and as a html. The Sparkify - Full Dataset versions include the project approach for the whole dataset provided within the Sparkify project.
 
+There are slight differences in the approach between the Sparkify file and the Sparkify - Full Dataset file.
+
 The Sparkify - Full Dataset.ipynb takes about 3 hrs to run on the EMR cluster configured as stated above.
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
